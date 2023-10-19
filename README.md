@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joelc311, 4th year MPhys Physics with Astronomy student at University of Southampton
-- 📫 Easiest place to reach me is on discord (DarkSun#0999) or via email (joelcarpenter311@yahoo.co.uk)
+- 👋 Hi, I’m @joelc311 completing my PhD in Astrophysics at University of Southampton
+- 📫 Easiest place to reach me is on discord (darksun1414) or via email (J.Carpenter@soton.ac.uk)
 
 
 <!---
